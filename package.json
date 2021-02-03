@@ -1,0 +1,19 @@
+{
+  "name": "portfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novasgit/portfo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novasgit/portfo/issues"
+  },
+  "homepage": "https://github.com/novasgit/portfo#readme"
+}
